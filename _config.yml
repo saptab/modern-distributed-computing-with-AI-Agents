@@ -1,7 +1,9 @@
 # Site settings
 
+repository: saptab/modern-distributed-computing-with-AI-Agents
+
 course_name: CSC 36000 - Modern Distributed Computing with AI Agents
-course_description: "An introduction to modern distributed computing concepts, systems, and applications. Topics include cloud computing, distributed algorithms, fault tolerance, scalability, and security."
+course_description: "This course immerses students in distributed systems and advanced AI agent technology, including LLMs, VLMs, federated/decentralized ML, and real-world agent deployments. Both theory and practical work are emphasized, with focus on architecture, coordination, JAX-based learning, safety, scalability, and applications in diverse environments."
 course_semester: "Fall 2025"
 
 baseurl: "/modern-distributed-computing-with-AI-Agents" # the subpath of your site, e.g. /blog/
