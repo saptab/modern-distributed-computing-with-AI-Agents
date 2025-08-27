@@ -1,0 +1,55 @@
+# Site settings
+
+course_name: CSC 36000 - Modern Distributed Computing with AI Agents
+course_description: "An introduction to modern distributed computing concepts, systems, and applications. Topics include cloud computing, distributed algorithms, fault tolerance, scalability, and security."
+course_semester: "Fall 2025"
+
+baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
+url: "https://www.ccny.cuny.edu/" # the base hostname & protocol for your site
+
+schoolname: "City College of New York"
+schoolurl: "https://www.ccny.cuny.edu/"
+twitter_username: CityCollegeNY
+
+address: |
+    Department of Computer Science
+    City College of New York
+    New York, NY
+
+instructor: "Professor Saptarashmi Bandyopadhyay"
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
