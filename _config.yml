@@ -4,8 +4,8 @@ course_name: CSC 36000 - Modern Distributed Computing with AI Agents
 course_description: "An introduction to modern distributed computing concepts, systems, and applications. Topics include cloud computing, distributed algorithms, fault tolerance, scalability, and security."
 course_semester: "Fall 2025"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "https://www.ccny.cuny.edu/" # the base hostname & protocol for your site
+baseurl: "/modern-distributed-computing-with-AI-Agents" # the subpath of your site, e.g. /blog/
+url: "https://saptab.github.io/" # the base hostname & protocol for your site
 
 schoolname: "City College of New York"
 schoolurl: "https://www.ccny.cuny.edu/"
