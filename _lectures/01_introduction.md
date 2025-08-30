@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-08-27T14:00:00-04:00
 title: Introduction
@@ -14,4 +14,4 @@ links:
 ---
 **Suggested Readings:**
 
-- [Course Website](https://saptab.github.io/modern-distributed-computing-with-AI-Agents)
+- [Course Website](https://saptab.github.io/modern-distributed-computing-with-AI-Agents) -->
