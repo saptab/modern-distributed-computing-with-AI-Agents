@@ -61,6 +61,15 @@ Students will be taught to work on assignments and projects in simulation while 
 3. Convex Optimization for Statistics and Machine Learning, Volume 1: Analysis by Ryan Tibshirani 2025 [https://github.com/ryantibs/convexopt-book1/blob/main/book1.pdf](https://github.com/ryantibs/convexopt-book1/blob/main/book1.pdf)   
 4. An Introduction to Statistical Learning with Python by Garreth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, 2023 [https://www.statlearning.com/](https://www.statlearning.com/) 
 
+## Google Colaboratory Set-Up for Assignments and Projects
+
+You can run the Jupyter Notebook for Coding Assignments  and Projects either:
+
+   1. Following the documentation on your local computer or CS Linux Lab where I am told by CCNY CS Dept that all CCNY CS students have accounts to access on the server [https://docs.jupyter.org/en/latest/running.html](https://docs.jupyter.org/en/latest/running.html)
+   2. The easiest way to run these accounts is creating a gmail account quicky with your name (student_name)@gmail.com as Google Colab offers free compute on Cloud to run experiments
+   3. To address our compute challenges, please create your Google Colab Account by Sept 17 class. I will confirm if accounts are created in class.
+
+
 ## Course Schedule
 
 The course schedule for the class (subject to revision) provides class topics and due dates. All submissions are due on the mentioned date in the table at 11:59 pm ET (Eastern Time).
@@ -109,6 +118,26 @@ All slides will be uploaded to the website within a few days to a week after cla
 ## Course Assignments and Exams  
 - Assignments will be ensuring the class topic coverage in code as well as theory  
 - Students will agree to the academic integrity policy, following class AI policy and University policy
+
+## Assignment Deadlines
+
+- Coding assignments are typically due weekly. However, due to the Fall Semester Break, Coding Assignment 1 will be due in two weeks on September 29.
+- All assignment deadlines are listed in the course schedule and will also be posted on Brightspace.
+
+### Course Projects
+
+- Detailed project assignments will be announced on September 17.
+- Project assignments will be staggered throughout the semester.
+
+### Late Submission Policy
+
+- Late assignments will incur a penalty of 10 points per day.
+- Assignments submitted more than 10 days after the deadline will receive a grade of zero.
+
+### Assignment Submission Recommendations
+
+- Start assignments early to allow time for questions or clarifications.
+- For assistance, contact the instructor by email, attend office hours, or ask questions in class.
 
 ## Course Projects
 (Detailed project assignments to be shared on September 17, staggered assignments)
