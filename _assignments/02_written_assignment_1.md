@@ -2,8 +2,8 @@
 type: assignment
 date: 2025-10-06T14:00:00-04:00
 title: 'Written Assignment #1'
-# pdf: /static_files/assignments/asg.pdf
-attachment: /static_files/assignments/Written_Assignment_1.pdf
+pdf: /static_files/assignments/Written_Assignment_1.pdf
+# attachment: /static_files/assignments/Written_Assignment_1.pdf
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
