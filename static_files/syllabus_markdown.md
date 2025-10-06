@@ -74,46 +74,42 @@ You can run the Jupyter Notebook for Coding Assignments  and Projects either:
 
 The course schedule for the class (subject to revision) provides class topics and due dates. All submissions are due on the mentioned date in the table at 11:59 pm ET (Eastern Time).
 
-Specific subtopics discussed in a class will be mentioned in the syllabus to help students revise during exams and to help them in their class projects
-
-All slides will be uploaded to the website within a few days to a week after class.
-
 | DATE | TOPIC | RESOURCE | Due Dates (Assignments/Project outcomes/Exams) |
 | :---- | :---- | :---- | :---- |
-| Aug 27 | Introduction to Modern Distributed AI Agents  *Course overview, Primary Challenges and Opportunities (efficiency, latency, energy, power, privacy, chip utilization, prioritization, bandwidth, standardization, privacy, data loss, and reliability), Algorithmic fundamentals of Distributed AI Agents, Demo of Multi-Agent AI with Deep Reinforcement Learning (RL), Real world use cases of Distributed AI Agents* |  |  |
-| Sept 3 | Distributed Data Processing for AI Agent Integrated 6G/7G Internet  *Challenges with 5G, AI integration focus for semantic understanding in 6G/7G internet, intelligently modulated dynamic bandwidth, elastic optical networks, Data loss during transmission, Modalities of data being transmitted (tabular, graphical, multi-modal (audio-visual, language)), Optimizing loss from data compression vis-a-vis detecting important data components, Case Study of Augmented Reality (AR) based Distributed AI Agents* |  |  |
-| Sept 8 | Distributed AI Training on AI accelerators (GPUs and TPUs)  *Syllabus Walkthrough, Metrics for Successful evaluation of Distributed AI Algorithms* |  |  |
-| Sept 10 | Metrics for Distributed Computing, Especially Distributed AI Agents *Accuracy, Precision, Recall, F-measure, Confusion Matrix, Sparsity in Distributed Computing, Reliability and Ability to Fix Mistakes in Distributed Computing, Real World Usecases*  |  |  |
-| Sept 15 | Distributed Computing Systems Models   *Fundamental distributed computing models, system components, and communication paradigms* |  | Coding Assignment 1 Declared |
-| Sept 17 | Distributed Algorithms for AI Coordination  |  | Projects and Groups will be assigned |
-| Sept 22 | No Classes Scheduled at CCNY, CUNY (Fall Semester Break)   (Academic Calendar Ref Link: [Link](https://www.ccny.cuny.edu/registrar/fall-2025-academic-calendar)) |  |  |
-| Sept 24 | No Classes Scheduled at CCNY, CUNY (Fall Semester Break)   (Academic Calendar Ref Link: [Link](https://www.ccny.cuny.edu/registrar/fall-2025-academic-calendar)) |  |  |
-| Sept 29 | Communication, Synchronization and Coordination in Distributed Computing Coding for Distributed AI Processing: Introduction to JAX (and Python)  |  | Coding Assignment 1 Due Written Assignment 1 Released |
-| Oct 1 | No Classes Scheduled at CCNY, CUNY (Fall Semester Break)   (Academic Calendar Ref Link: [Link](https://www.ccny.cuny.edu/registrar/fall-2025-academic-calendar)) |  |  |
-| Oct 6 | Consistency, Replication and Fault Tolerance for Reliability in Distributed AI   ***UCAR Week*** |  | Written Assignment 1 Due |
-| Oct 8 | Multi-Agent AI at a Distributed Scale |  | Coding Assignment 2 Released Project Abstract Reports Due |
-| Oct 13 | College Closed   (Academic Calendar Ref Link: [Link](https://www.ccny.cuny.edu/registrar/fall-2025-academic-calendar)) |  |  |
-| Oct 14 | \<CCNY, CUNY classes follow a Monday Oct 13 schedule\>  Optimization of Energy, Bandwidth, Power, and Capacity in Intelligent Distributed Computing Settings |  |  |
+| Aug 27 | Introduction to Modern Distributed AI Agents — Course overview, Primary Challenges and Opportunities (efficiency, latency, energy, power, privacy, chip utilization, prioritization, bandwidth, standardization, privacy, data loss, and reliability), Algorithmic fundamentals of Distributed AI Agents, Demo of Multi-Agent AI with Deep Reinforcement Learning (RL), Real world use cases of Distributed AI Agents |  |  |
+| Sept 3 | Distributed Data Processing for AI Agent Integrated 6G/7G Internet — Challenges with 5G, AI integration focus for semantic understanding in 6G/7G internet, intelligently modulated dynamic bandwidth, elastic optical networks, Data loss during transmission, Modalities of data (tabular, graphical, multi-modal: audio-visual, language), Optimizing loss from data compression, Case Study: AR-based Distributed AI Agents |  |  |
+| Sept 8 | Distributed AI Training on AI accelerators (GPUs and TPUs) — Syllabus Walkthrough, Metrics for Successful evaluation of Distributed AI Algorithms |  |  |
+| Sept 10 | Metrics for Distributed Computing, Especially Distributed AI Agents — Accuracy, Precision, Recall, F-measure, Confusion Matrix, Sparsity in Distributed Computing, Reliability and Ability to Fix Mistakes, Real World Usecases |  |  |
+| Sept 15 | Distributed Computing Systems Models — Fundamental distributed computing models (Synchronous vs. Asynchronous), system components, communication paradigms, Real World Use Cases, Failure Tolerance (Benign Failures, Byzantine Failures, Byzantine Failure Tolerance) |  | Coding Assignment 1 Declared |
+| Sept 17 | Distributed Algorithms for AI Coordination — Communication Models: Shared Memory, Message Passing, Distributed Single-Agent AI Algorithms, Coordination Problem, Coding Assignment 1 Set-Up and Brainstorming, Detailed walkthrough of Syllabus |  | Projects and Groups will be assigned |
+| Sept 22 | No Classes Scheduled at CCNY, CUNY (Fall Semester Break) | (Academic Calendar Ref Link: Link) |  |
+| Sept 24 | No Classes Scheduled at CCNY, CUNY (Fall Semester Break) | (Academic Calendar Ref Link: Link) |  |
+| Sept 29 | Distributed Algorithms for AI Coordination (continued) — Grid-World Example, Q-Learning, Bellman Equation, Tabular Q computation example, Multi-Agent Q Learning, Action Space Complexity, Independent Q Learning and convergence, Value Decomposition Networks, QMIX |  | Coding Assignment 1 Due |
+| Oct 1 | No Classes Scheduled at CCNY, CUNY (Fall Semester Break) | (Academic Calendar Ref Link: Link) |  |
+| Oct 6 | Communication, Synchronization and Coordination in Distributed Computing; Coding for Distributed AI Processing: Introduction to JAX (and Python) — UCAR Week. Timing in Distributed Systems, Physical Clocks, Ordering of Events, Distributed State Management (Leslie Lamport), Lamport Timestamps, Partial/Total Order, Mutual Exclusion, Distributed Mutual Exclusion, JAX code review (jit, grad, etc.) |  | Written Assignment 1 (Mock Practice for Midterm Exam) Released |
+| Oct 8 | Multi-Agent AI at a Distributed Scale |  | Written Assignment 1 (Mock Practice for Midterm Exam) Due on Oct 10 |
+| Oct 13 | College Closed | (Academic Calendar Ref Link: Link) |  |
+| Oct 14 | <CCNY, CUNY classes follow a Monday Oct 13 schedule> — Consistency, Replication and Fault Tolerance for Reliability in Distributed AI; Optimization of Energy, Bandwidth, Power, and Capacity in Intelligent Distributed Computing Settings |  | Coding Assignment 2 Released |
 | Oct 15 | Midterm Exam |  |  |
-| Oct 20 | No Classes Scheduled,Fall Semester Break at CCNY, CUNY  (Academic Calendar Ref Link: [Link](https://www.ccny.cuny.edu/registrar/fall-2025-academic-calendar)) |  |  |
-| Oct 22 | Deep Learning for Modern AI Agents  ***ICCV Week*** |  | Coding Assignment 2 Due Written Assignment 2 Released |
-| Oct 24 | \<CCNY, CUNY classes follow a Monday Oct 20 schedule\>  Decentralized AI Agents  *Agent Ontologies, Communication, Cooperation, Coordination, Approximate Competition* |  | Written Assignment 2 Due  |
-| Oct 27 | Multi-Agent Deep Reinforcement Learning and Computational Game Theory fundamentals at a Distributed Scale  |  | Coding Assignment 3 Released  Written Assignment 3 Released |
-| Oct 29 | Imitation Learning and Self-Supervised Learning in Distributed AI Agents  |  | Written Assignment 3 Due |
-| Nov 3 | Model Predictive Control (MPC) and Evolutionary Learning for Real-Time Mistake Correction in Distributed AI  |  | Coding Assignment 3 Due |
-| Nov 5 | Next Gen 6G/7G Networks for Edge and Cloud Computing  |  |  |
-| Nov 10 | Scalability vis-a-vis Reliability in Real World Distributed AI Computing  |  |  |
-| Nov 12 | Multimodal AI Agents (Audio, Visual, Language, Sensory, Tactile modalities)   Challenges of distributed processing, Quantized models, Data compression, Metrics |  | Project Midterm Update Due |
-| Nov 17 | Embedded Distributed AI Agents for Robotics, Drones, AR/VR/MR/XR, Self-Driving Cars |  | Coding Assignment 4 Released Written Assignment 4 Released |
+| Oct 20 | No Classes Scheduled, Fall Semester Break at CCNY, CUNY | (Academic Calendar Ref Link: Link) |  |
+| Oct 22 | Deep Learning for Modern AI Agents — ICCV Week |  | Coding Assignment 2 Due; Written Assignment 2 Released |
+| Oct 24 | <CCNY, CUNY classes follow a Monday Oct 20 schedule> — Decentralized AI Agents: Agent Ontologies, Communication, Cooperation, Coordination, Approximate Competition |  | Written Assignment 2 Due |
+| Oct 27 | Multi-Agent Deep Reinforcement Learning and Computational Game Theory fundamentals at a Distributed Scale |  | Coding Assignment 3 Released; Written Assignment 3 Released; Project Abstract Reports Due |
+| Oct 29 | Imitation Learning and Self-Supervised Learning in Distributed AI Agents |  |  |
+| Nov 3 | Model Predictive Control (MPC) and Evolutionary Learning for Real-Time Mistake Correction in Distributed AI |  | Written Assignment 3 Due |
+| Nov 5 | Next Gen 6G/7G Networks for Edge and Cloud Computing |  | Coding Assignment 3 Due |
+| Nov 10 | Scalability vis-a-vis Reliability in Real World Distributed AI Computing |  |  |
+| Nov 12 | Multimodal AI Agents (Audio, Visual, Language, Sensory, Tactile) — Challenges of distributed processing, Quantized models, Data compression, Metrics |  |  |
+| Nov 17 | Embedded Distributed AI Agents for Robotics, Drones, AR/VR/MR/XR, Self-Driving Cars |  | Coding Assignment 4 Released; Written Assignment 4 Released; Project Midterm Update Due |
 | Nov 19 | Multi-Agent AI Capabilities: Planning, Negotiation & Navigation |  |  |
-| Nov 24 | Hands on Coding of Distributed AI Agents: using JAXMARL and Gymnasium |  | Coding Assignment 4 Due Written Assignment 4 Due |
-| Nov 26 | Some Real World Applications of Distributed AI Agents Smart Grid Orchestration Stock Portfolio Optimization |  |  |
+| Nov 24 | Hands on Coding of Distributed AI Agents: using JAXMARL and Gymnasium |  | Coding Assignment 4 Due; Written Assignment 4 Due |
+| Nov 26 | Some Real World Applications of Distributed AI Agents — Smart Grid Orchestration, Stock Portfolio Optimization |  |  |
 | Dec 1 | Neuromorphic Computing at a Distributed Scale |  |  |
-| Dec 3 | Distributed Quantum Computing for Neuroscientific AI Agents  ***NeurIPS Week*** |  |  |
+| Dec 3 | Distributed Quantum Computing for Neuroscientific AI Agents — NeurIPS Week |  |  |
 | Dec 8 | Interpretable and Explainable AI for Distributed Computing |  |  |
 | Dec 10 | Project Presentations (Part I) |  |  |
-| Dec 15 | Project Presentations (Part II) |  |  |
-| Dec 16-22 | Final Exam as per CCNY, CUNY Academic Calendar (Ref Link: [Link](https://www.ccny.cuny.edu/registrar/fall-2025-academic-calendar)) |  |  |
+| Dec 15 | Project Presentations (Part II) — At least 90% to 95% of project reports must be completed along with presentation |  |  |
+| Dec 16-22 | Final Exam as per CCNY, CUNY Academic Calendar | (Academic Calendar Ref Link: Link) | Final Project Report Due in Final Exam Week (Specific Date TBA, once Final Exam Schedules are released) |
 
 ## Course Assignments and Exams  
 - Assignments will be ensuring the class topic coverage in code as well as theory  
