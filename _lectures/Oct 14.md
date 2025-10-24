@@ -15,4 +15,4 @@ links:
 <!-- **Additional Readings:**
 
 - [Huggingface Deep Reinforcement Learning Course: Unit 2](https://huggingface.co/learn/deep-rl-course/en/unit2/introduction) -->
-The October 14 class was a review for the Midterm Exam, a review of Coding Assignment 1, a review of Written Assignment 1, and Class Project Discussions.
+The October 14 class is a review for the Midterm Exam, a review of Coding Assignment 1, a review of Written Assignment 1, and Class Project Discussions.
