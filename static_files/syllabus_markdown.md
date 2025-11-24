@@ -2,7 +2,10 @@
 
 **Time:** Fall 2025, Mon/Wed 2:00p-3:15p		**Room:** SH-209  
 **Prof:** Saptarashmi Bandyopadhyay                    	**TA:** N/A  
-**Office Hours**: Online/By Email till CUNY Facilities get my office functional
+**Office Hours**: Online/By Email while temporary office arrangements are made during construction of my office (from 8/26-9/14)
+                        4 pm Monday at NAC 8/206D by Appointment/Online/By Email (from 9/15- Now)
+                        – CCNY CS Chair Prof Kawaguchi kindly offered his NAC 8/206D Chamber for  Office Hours of CS students pending construction of my office
+
 
 ## Course Description
 
@@ -17,14 +20,13 @@ Students will be taught to work on assignments and projects in simulation while 
 ## Free TextBooks, Open-Source Coding & Relevant Resources
 
 ### Free Text Books
-
-1. Multi-Agent Reinforcement Learning Book by Stefano Albrecht, 2024 [https://www.marl-book.com/download/marl-book.pdf](https://www.marl-book.com/download/marl-book.pdf)   
-2. Reinforcement Learning by Dimitri P. Bertsekas, 2025 and 2019 (including video lectures) [https://web.mit.edu/dimitrib/www/RLbook.html](https://web.mit.edu/dimitrib/www/RLbook.html) \+ [https://web.mit.edu/dimitrib/www/RLbook.html](https://web.mit.edu/dimitrib/www/RLbook.html)   
-3. Rollout, Policy Iteration, and Distributed Reinforcement Learning by Dimitri P. Bertsekas, 2020 [https://web.mit.edu/dimitrib/www/dp\_rollout\_book.html](https://web.mit.edu/dimitrib/www/dp_rollout_book.html) \+ [https://web.mit.edu/dimitrib/www/Rollout\_Complete%20Book.pdf](https://web.mit.edu/dimitrib/www/Rollout_Complete%20Book.pdf)   
-4. Parallel and Distributed Computation: Numerical Methods by Dimitri P. Bertsekas and John N. Tsitsiklis, 2018 [https://web.mit.edu/dimitrib/www/pdc.html](https://web.mit.edu/dimitrib/www/pdc.html)  [http://www.athenasc.com/pdcbook.pdf](http://www.athenasc.com/pdcbook.pdf)   
-5. Deep Learning by Ian Goodfellow, 2012 [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)   
-6. An Introduction to Multi-Agent Systems by Michael Wooldridge, 2001  [https://uranos.ch/research/references/Wooldridge\_2001/TLTK.pdf](https://uranos.ch/research/references/Wooldridge_2001/TLTK.pdf)   
-7. 6G Flagship Book, 2023 [https://www.6gflagship.com/news/unveiling-the-digital-horizon-new-book-on-5g-6g-and-future-digital-services-released/](https://www.6gflagship.com/news/unveiling-the-digital-horizon-new-book-on-5g-6g-and-future-digital-services-released/)   
+1. Parallel and Distributed Computation: Numerical Methods by Dimitri P. Bertsekas and John N. Tsitsiklis, 2018 — https://web.mit.edu/dimitrib/www/pdc.html / http://www.athenasc.com/pdcbook.pdf  
+2. Rollout, Policy Iteration, and Distributed Reinforcement Learning by Dimitri P. Bertsekas, 2020 — https://web.mit.edu/dimitrib/www/dp_rollout_book.html / https://web.mit.edu/dimitrib/www/Rollout_Complete%20Book.pdf  
+3. Multi-Agent Reinforcement Learning Book by Stefano Albrecht, 2024 — https://www.marl-book.com/download/marl-book.pdf  
+4. Reinforcement Learning by Dimitri P. Bertsekas, 2025 and 2019 (including video lectures) — https://web.mit.edu/dimitrib/www/RLbook.html  
+5. Deep Learning by Ian Goodfellow, 2012 — https://www.deeplearningbook.org/  
+6. An Introduction to Multi-Agent Systems by Michael Wooldridge, 2001 — https://uranos.ch/research/references/Wooldridge_2001/TLTK.pdf  
+7. 6G Flagship Book, 2023 — https://www.6gflagship.com/news/unveiling-the-digital-horizon-new-book-on-5g-6g-and-future-digital-services-released/  
 8. Selected open-source research papers will be provided by the Professor
 
 ### Open-Access JAX Learning Resources
@@ -63,11 +65,10 @@ Students will be taught to work on assignments and projects in simulation while 
 
 ## Google Colaboratory Set-Up for Assignments and Projects
 
-You can run the Jupyter Notebook for Coding Assignments  and Projects either:
+You can run the Jupyter Notebook for Coding Assignments  and Projects.
 
-   1. Following the documentation on your local computer or CS Linux Lab where I am told by CCNY CS Dept that all CCNY CS students have accounts to access on the server [https://docs.jupyter.org/en/latest/running.html](https://docs.jupyter.org/en/latest/running.html)
-   2. The easiest way to run these accounts is creating a gmail account quicky with your name (student_name)@gmail.com as Google Colab offers free compute on Cloud to run experiments
-   3. To address our compute challenges, please create your Google Colab Account by Sept 17 class. I will confirm if accounts are created in class.
+   1. The easiest way to run these accounts is creating a gmail account quicky with your name (student_name)@gmail.com as Google Colab offers free compute on Cloud to run experiments
+   2. To address our compute challenges, please create your Google Colab Account by Sept 17 class. I will confirm if accounts are created in class.
 
 
 ## Course Schedule
