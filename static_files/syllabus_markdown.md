@@ -2,9 +2,10 @@
 
 **Time:** Fall 2025, Mon/Wed 2:00p-3:15p		**Room:** SH-209  
 **Prof:** Saptarashmi Bandyopadhyay                    	**TA:** N/A  
-**Office Hours**: Online/By Email while temporary office arrangements are made during construction of my office (from 8/26-9/14)
-                        4 pm Monday at NAC 8/206D by Appointment/Online/By Email (from 9/15- Now)
-                        – CCNY CS Chair Prof Kawaguchi kindly offered his NAC 8/206D Chamber for  Office Hours of CS students pending construction of my office
+**Office Hours**: 
+- Online/By Email while temporary office arrangements are made during construction of my office (from 8/26-9/14)
+- 4 pm Monday at NAC 8/206D by Appointment/Online/By Email (from 9/15- Now)
+  * CCNY CS Chair Prof Kawaguchi kindly offered his NAC 8/206D Chamber for  Office Hours of CS students pending construction of my office
 
 
 ## Course Description
