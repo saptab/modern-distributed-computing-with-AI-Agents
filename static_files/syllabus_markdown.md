@@ -69,7 +69,8 @@ Students will be taught to work on assignments and projects in simulation while 
 You can run the Jupyter Notebook for Coding Assignments  and Projects.
 
    1. The easiest way to run these accounts is creating a gmail account quicky with your name (student_name)@gmail.com as Google Colab offers free compute on Cloud to run experiments
-   2. To address our compute challenges, please create your Google Colab Account by Sept 17 class. I will confirm if accounts are created in class.
+   2. If you want to install Jupyter locally (local installation is not mandatory as Colab is easy to write development code on), follow the steps here https://docs.jupyter.org/en/latest/running.html
+   3. To address our compute challenges, please create your Google Colab Account by Sept 17 class. I will confirm if accounts are created in class.
 
 
 ## Course Schedule
