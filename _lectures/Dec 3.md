@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-12-03T14:00:00-04:00
-title: December 3, 2025
+date: 2025-12-01T14:00:00-04:00
+title: December 1, 2025
 tldr: "Neuromorphic Computing at a Distributed Scale"
 thumbnail: /static_files/presentations/lec01.jpg
 links: 
@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: "/static_files/presentations/Dec 3 Lecture.pdf"
+    - url: "/static_files/presentations/Dec 1 Lecture.pdf"
       name: slides
 ---
 <!-- **Additional Readings:**
